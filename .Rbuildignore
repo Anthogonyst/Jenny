@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^README-.*\.png$
+^\hexlogo
+^\tests\testthat.R
+^CONDUCT\.md$

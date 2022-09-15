@@ -1,0 +1,12 @@
+Package: Jenny
+Type: Package
+Title: Jenny's Number
+Version: 4.2.0
+Author: Anthogonyst
+Maintainer: Anthogonyst <anthogonyst@gmail.com>
+Description: Helps you contact the love of your life.
+    Gives you Jenny's number so you always know how to reach her.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
